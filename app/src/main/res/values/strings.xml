@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SoundApp</string>
+    <string name="app_title">Sound App</string>
+    <string name="group_name">Group Name</string>
+    <string name="add">ADD</string>
+    <string name="save">SAVE</string>
+    <string name="floating_action_button">Floating Action Button</string>
+    <string name="sound_name">Sound Name</string>
+    <string name="pause">sound_pause</string>
+    <string name="delete">sound_delete</string>
+    <string name="expand_collapse">expand_collapse</string>
+    <string name="sound_icon">sound icon</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+</resources>
